@@ -6,5 +6,5 @@ SkillsTV is a free live television application thats like Netflix but instead of
 having a repository of movies it will have a repository of live television channels.
 
 ## 
-
+For growth,
 ..open to suggestions and collaboration.
